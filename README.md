@@ -1,1 +1,2 @@
 # phpshare
+For fun :)
